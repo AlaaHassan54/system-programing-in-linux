@@ -41,7 +41,7 @@ $ ./mv /tmp/file_copy.txt ~/file.txt
 
 Use gcc to compile each program individually:
 
-gcc -o mypwd mypwd.c
-gcc -o myecho myecho.c
-gcc -o mycp mycp.c
-gcc -o mymv mymv.c
+$gcc -o mypwd mypwd.c
+$gcc -o myecho myecho.c
+$gcc -o mycp mycp.c
+$gcc -o mymv mymv.c
